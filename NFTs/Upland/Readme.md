@@ -11,10 +11,29 @@ Buy, sell, trade and collect properties, develop them, build structures, create 
 | Platform | EOS | 
 | Token | UPX | 
 
+# Application
+
+<p align="center">
+<img src="assets/NamChain_NFT_Upland_Map.jpg" width="300" align="center"><br/>
+</p>
+
+
+<p align="center">
+<img src="assets/NamChain_NFT_Upland_Land_Title.png" width="300" align="center"><br/>
+</p>
+
+
+<p align="center">
+<img src="assets/NamChain_NFT_Upland_Visa_Status_5Days.jpg" width="300" align="center">
+</p>
+
+<p align="center">
+<img src="assets/NamChain_NFT_Upland_Visa_Status_3Days.jpg" width="300" align="center"> <br/>
+</p>
+
+<p align="center">
+<img src="assets/NamChain_NFT_Upland_Visa_Expiry_Notice.jpg" width="300" align="center">
+</p>
+  
 # Credits
 Ramaguru Radhakrishnan (@ramagururadhakrishnan)
-
-
-
-
-
